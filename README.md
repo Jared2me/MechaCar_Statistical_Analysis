@@ -53,10 +53,10 @@ Broken down by lot, we can see that Lot 3 however is different as it's p-value i
 
 With the price of everything seeming to rise, today's (and the future's) consumers will be a lot more cost conscious. Another metric to test the MechaCar against the competition would be upfront cost vs frequency (and maybe costs) of repairs needed.
 
-We would use a calculation to determine Cost/repairs(# or $) for the MechaCar and for our competition. We would need to gather new car pricing (at the time of purchase), and repair data (cost or frequency or both).
+We would use a calculation to determine Cost/repairs(# or $) for the MechaCar and for our competition. We would need to gather new car pricing (at the time of purchase), and subsequent repair data (cost or frequency or both).
 
-Our null hypothesis is that there is no difference between the cost and frequency for repair for the MechaCar and all groups are equal. The alternative hypothesis is that there is a difference (positive or negative).
+Our null hypothesis is that there is no difference between the cost and repairs for the MechaCar and all groups are equal. The alternative hypothesis is that there is a difference (positive or negative).
 
 I would use an ANOVA test to study the results since we would be comparing the means (Cost/repairs) across multiple data sets. This would either tell us the groups are equal or they are not which would limit our understanding of the data. I would also combine the ANOVA with t-tests for manufacturer and model.
 
-
+At the very least it could help prove or disprove the age old addage "You get what you pay for."
