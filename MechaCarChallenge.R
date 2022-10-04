@@ -26,7 +26,7 @@ lot_summary <- summarize(lots, Mean=mean(PSI), Median=median(PSI), Variance=var(
 
 #D3
 t.test(MechaCoil$PSI, mu=1500)
-?t.test
+
 ?subset
 
 lot1 <- subset(MechaCoil, Manufacturing_Lot=='Lot1')
